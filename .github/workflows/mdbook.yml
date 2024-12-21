@@ -38,12 +38,10 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with mdBook
         run: |
-          rm -r .vscode
           rm -r .github
-          rm -r media-sources
           rm .gitignore
           touch SUMMARY.md
-          mv README.md introduction.md
+          mv README.md category.md
           mdbook build
           rm ./book/html/book.toml
           rm -r ./book/html/theme
