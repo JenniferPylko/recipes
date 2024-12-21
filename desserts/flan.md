@@ -2,7 +2,7 @@
 
 <meta property="og:description">
 
-Flan originates in spain, but mexico has some notable variations, including any combination of cream cheese, orange, and rum. This recipe includes orange and rum.
+Flan originates in Spain, but Mexico has some notable variations, including any combination of cream cheese, orange, and rum. This recipe includes orange and rum.
 
 ## Ingredients
 
