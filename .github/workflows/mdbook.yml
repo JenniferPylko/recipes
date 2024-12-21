@@ -1,0 +1,71 @@
+name: Deploy mdBook site to Pages
+
+on:
+  push:
+    branches: ["main"]
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: restore cargo cache
+        id: restore-cargo-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ~/.cargo
+          key: cargo-${{ github.workflow }}-
+          restore-keys: cargo-${{ github.workflow }}-
+      - name: Install mdBook
+        run: |
+          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
+          rustup update
+          cargo install mdbook
+          cargo install mdbook-autosummary
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Build with mdBook
+        run: |
+          rm -r .vscode
+          rm -r .github
+          rm -r media-sources
+          rm .gitignore
+          touch SUMMARY.md
+          mv README.md introduction.md
+          mdbook build
+          rm ./book/html/book.toml
+          rm -r ./book/html/theme
+      - name: generate cache key
+        run: echo "CARGO_HASH=$(cat ~/.cargo/registry/CACHEDIR.TAG | head -n 1 | cut -c 12-)" >> $GITHUB_ENV
+      - name: save cargo cache
+        id: save-cargo-cache
+        uses: actions/cache/save@v4
+        with:
+          path: ~/.cargo
+          key: cargo-${{ github.workflow }}-${{ env.CARGO_HASH }}
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./book/html
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
