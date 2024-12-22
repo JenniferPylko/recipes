@@ -1,4 +1,4 @@
-# Desserts
+# Sweets
 
 - [Apple Pound Cake](./apple-pound-cake.md)
 - [Figgy Pudding](./figgy-pudding.md)

@@ -6,3 +6,8 @@
 [![Check opengraph description meta tags](https://github.com/JenniferPylko/recipes/actions/workflows/page-descriptions.yml/badge.svg)](https://github.com/JenniferPylko/recipes/actions/workflows/page-descriptions.yml)
 
 A collection of recipes I've created.
+
+## Categories
+
+- [Pasta Dishes](./pasta/category.md)
+- [Sweets](./sweets/category.md)
