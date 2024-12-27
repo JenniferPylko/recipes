@@ -13,12 +13,12 @@
 - 1 tsp cardamom
 - 2 tsp almond extract
 - 2 eggs
-- 1/2 cup sour cream
-- 1 cup butter, softened
+- 1 cup sour cream
+- 1 cup butter, melted
 
 ## Procedure
 
 1. Combine the butter and sugar.
-2. Add the remaining dry ingredients and stir to loosely combine.
+2. Add the remaining dry ingredients and stir to combine into a loose crumb.
 3. Add the wet ingredients and mix.
 4. Bake at 350 F.
