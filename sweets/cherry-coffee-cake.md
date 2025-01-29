@@ -6,7 +6,7 @@
 - 1 1/2 cups sugar
 - 1/2 cup chopped walnuts
 - 1 1/2 cup dried cherries
-- 1/2 cup candied orange peel
+- 1/2 cup candied lemon peel
 - 1 1/2 tsp baking powder
 - 1/2 tsp baking soda
 - 1/2 tsp salt
@@ -14,7 +14,7 @@
 - 2 tsp almond extract
 - 2 eggs
 - 1 cup sour cream
-- 1/2 cup butter, melted
+- 1 cup butter, melted
 
 ## Procedure
 
