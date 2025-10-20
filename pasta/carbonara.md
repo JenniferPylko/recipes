@@ -1,5 +1,7 @@
 # Carbonara
 
+<meta property="og:description" content="Most carbonara recipes overcomplicate the dish or curdle the egg yolks, but not this one."
+
 ## Ingredients
 
 - 8 egg yolks
