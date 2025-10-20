@@ -16,7 +16,7 @@ This pan de muerto recipe is a single-rise batter bread, in contrast with most r
   - 1/4 cup sugar
   - 1/4 cup milk
   - 1 tsp instant yeast
-  - 1 egg
+  - 1 egg or 1/4 cup applesauce
 - **Glaze**
   - 1/4 cup orange juice
   - 1/2 cup granulated sugar
@@ -25,13 +25,15 @@ This pan de muerto recipe is a single-rise batter bread, in contrast with most r
 
 - Mixing bowl
 - Additional bowls
+- Measuring cups and spoons
+- Microplane or grater if using fresh zest
 - Hand mixer (optional)
 - Loaf pan or muffin tin
 
 ## Procedure
 
 1. Combine flour, salt, orange zest, and anise seeds.
-2. Melt Butter
+2. Melt butter.
 3. Mix sugar, milk, and orange blossom water.
 4. Warm the milk mixture to a little over 100 F (about 30 seconds in the microwave).
 5. Stir the milk mixture until the sugar is dissolved.
