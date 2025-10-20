@@ -1,14 +1,16 @@
 # Apple Pound Cake
 
+<meta property="og:description" content="A quick and delicious apple cake.">
+
 ## Ingredients
 
+- 1/2 cup butter, softened
+- 1 cup sugar
 - 1 cup shredded apple
 - 1 1/2 cups flour
 - 1 tsp baking powder
 - 1/4 tsp baking soda
 - 1/4 tsp salt
-- 1/2 cup butter, softened
-- 1 cup sugar
 - 1/2 cup applesauce
 - 1/4 cup sour cream or plain yogurt
 - 1 tsp vanilla
