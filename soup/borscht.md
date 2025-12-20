@@ -1,8 +1,11 @@
 # Borscht
 
+<meta property="og:description" content="A variation of the Ukrainian soup with quick-pickled beets for convenience.">
+
 ## Ingredients
 
 - **Quick-pickled Beet Sour**
+  - 4-6 large uncooked beets
   - 1 qt white vinegar
   - 1 qt water
   - 1/4 cup sugar
@@ -20,14 +23,14 @@
   - 6 cloves of garlic
   - 12 oz tomato paste
   - 2 qt rich broth, such as beef bone broth
-  - salt, to taste
+  - Salt, to taste
 - **Toppings**
   - Sour cream
   - Fresh flat-leaf parsley
 
 ## Procedure
 
-1. Dice the beets into approximately 1/2 inch cubes
+1. Peel the beets and dice into approximately 1/2 inch cubes.
 2. Combine the ingredients for the beet sour in a pot and simmer until the beets are softened. At that point, remove from heat, but do not discard the liquid.
 3. Dice the onions.
 4. Slice the carrots into rounds.
@@ -36,7 +39,7 @@
 7. Melt the butter in a large pot.
 8. Add the onions and a generous pinch of salt, then sauté until the onions start to soften.
 9. Stir in the tomato paste, garlic, and seasonings.
-10. Add the cabbage and carrots
+10. Add the cabbage and carrots.
 11. Add a little broth, to help the cabbage steam.
 12. Cover until the cabbage has softened and cooked down a bit, stirring frequently.
 13. With a slotted spoon, sieve, or other implement, move the beets from the brine to the soup.
