@@ -1,6 +1,6 @@
 # Flan
 
-<meta property="og:description">
+<meta property="og:description" content="Flan originates in Spain, but Mexico has some notable variations, including any combination of cream cheese, orange, and rum. This recipe includes orange and rum.">
 
 Flan originates in Spain, but Mexico has some notable variations, including any combination of cream cheese, orange, and rum. This recipe includes orange and rum.
 
